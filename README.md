@@ -10,8 +10,13 @@ If there is a name for this faculty, then add the line of this faculty into the 
 For example, someone working on dept6and10.csv may have the following page:
 
 Houqiang Li
+
 Weiping Li
+
 Dong Liu
+
 Zheng-Jun Zha
+
 Nenghai Yu
+
 Kaiping Xue
