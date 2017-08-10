@@ -3,7 +3,7 @@ Adding the faculty of USTC to the csranking.
 
 How to do:
 
-Check the faculty in [DBLP]{http://dblp.uni-trier.de/search/}.
+Check the faculty in [DBLP](http://dblp.uni-trier.de/search/).
 
 If there is a name for this faculty, then add the line of this faculty into the csv in a new line.
 
